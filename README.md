@@ -7,5 +7,5 @@
 
 
 # servidor-flask
-this api takes datas from adventure works database and share it in a request
+this api takes data from adventure works database and share it in a request
 
