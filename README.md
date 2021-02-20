@@ -5,6 +5,7 @@
 - pip install flask
 - pip install flask-mysqldb
 
-# issues
-- sudo apt-get install libmysqlclient-dev
+
 # servidor-flask
+this api takes datas from adventure works database and share it in a request
+
